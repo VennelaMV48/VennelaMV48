@@ -96,7 +96,7 @@ Click the icon to visit my LinkedIn profile.
 <p align="center">
 
 <a href="https://github.com/VennelaMV48/tinyml-korora-dog-detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&repo=tinyml-korora-dog-detection"/>
+<img 🐧src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&repo=tinyml-korora-dog-detection"/>
 </a>
 
 <a href="https://github.com/VennelaMV48/multimodal-pet-reidentification">
