@@ -60,21 +60,13 @@ AI assistant for pre-screening research ethics applications.
 
 ## 🛠 Tech Stack
 
-**Programming**
+**Programming** : Python • SQL
 
-Python • SQL
+**Machine Learning** : PyTorch • TensorFlow • Scikit-Learn
 
-**Machine Learning**
+**AI Domains** : Computer Vision • NLP • Deep Learning • TinyML
 
-PyTorch • TensorFlow • Scikit-Learn
-
-**AI Domains**
-
-Computer Vision • NLP • Deep Learning • TinyML
-
-**Tools**
-
-Edge Impulse • Roboflow • Streamlit • Jupyter
+**Tools** : Edge Impulse • Roboflow • Streamlit • Jupyter
 
 ---
 
@@ -94,8 +86,4 @@ Applied machine learning research
 
 Click the icon to visit my LinkedIn profile.
 
----
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default)
