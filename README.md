@@ -28,13 +28,13 @@ Currently pursuing a **Master of Artificial Intelligence at the University of Au
 
 ## 🛠 Tech Stack
 
-**Programming** : Python • SQL
+**Programming**: Python, SQL
 
-**Machine Learning** : PyTorch • TensorFlow • Scikit-Learn
+**Machine Learning**: PyTorch, TensorFlow, Scikit-Learn
 
-**AI Domains** : Computer Vision • NLP • Deep Learning • TinyML
+**AI Domains**: Computer Vision, NLP, Deep Learning, TinyML
 
-**Tools** : Edge Impulse • Roboflow • Streamlit • Jupyter
+**Tools**: Edge Impulse, Roboflow, Streamlit, Jupyter
 
 
 
