@@ -52,7 +52,6 @@ Applied machine learning research
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35"/>
 </a>
 
-Click the icon to visit my LinkedIn profile.
 
 
 
