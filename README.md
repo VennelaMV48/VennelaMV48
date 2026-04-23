@@ -5,6 +5,8 @@ AI engineer passionate about building intelligent systems that solve real-world 
 Currently pursuing a **Master of Artificial Intelligence at the University of Auckland**.
 
 
+*THIS GITHUB PROFILE IS STILL IN PROGRESS*
+
 
 ## 🚀 Featured Projects
 
