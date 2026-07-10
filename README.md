@@ -9,6 +9,38 @@ Currently pursuing a **Master of Artificial Intelligence at the University of Au
 
 <h2 align="center">🚀 Featured AI Projects</h2>
 
+<p align="center">
+  <a href="https://github.com/VennelaMV48/tinyml-korora-dog-detection">
+    <img
+      width="48%"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=2EA44F&center=true&vCenter=true&width=430&height=90&lines=%F0%9F%90%A7+TinyML+Koror%C4%81+Dog+Detection;Edge+AI+%7C+Computer+Vision"
+      alt="TinyML Kororā Dog Detection"
+    />
+  </a>
+
+  <a href="https://github.com/VennelaMV48/multimodal-pet-reidentification">
+    <img
+      width="48%"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=8B5CF6&center=true&vCenter=true&width=430&height=90&lines=%F0%9F%90%95+Multimodal+Pet+Re-identification;Deep+Learning+%7C+Computer+Vision"
+      alt="Multimodal Pet Re-identification"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/VennelaMV48/llm-animal-ethics-advisor">
+    <img
+      width="48%"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00BFFF&center=true&vCenter=true&width=430&height=90&lines=%F0%9F%A4%96+LLM+Animal+Ethics+Advisor;Generative+AI+%7C+Responsible+AI"
+      alt="LLM Animal Ethics Advisor"
+    />
+  </a>
+</p>
+
+
+
+<h2 align="center">🚀 Featured AI Projects</h2>
+
 <table width="100%">
   <tr>
     <td width="50%" align="center" height="80">
