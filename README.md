@@ -7,6 +7,38 @@ AI engineer passionate about building intelligent systems that solve real-world 
 Currently pursuing a **Master of Artificial Intelligence at the University of Auckland**.
 
 
+<h2 align="center">🚀 Featured AI Projects</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" height="80">
+      <a href="https://github.com/VennelaMV48/tinyml-korora-dog-detection">
+        <strong>🐧 TinyML Kororā Dog Detection</strong>
+      </a>
+    </td>
+
+    <td width="50%" align="center" height="80">
+      <a href="https://github.com/VennelaMV48/multimodal-pet-reidentification">
+        <strong>🐕 Multimodal Pet Re-identification</strong>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="center" height="80">
+      <a href="https://github.com/VennelaMV48/llm-animal-ethics-advisor">
+        <strong>🤖 LLM Animal Ethics Advisor</strong>
+      </a>
+    </td>
+
+    <td width="50%" align="center" height="80">
+      <a href="https://github.com/VennelaMV48?tab=repositories">
+        <strong>✨ View All Projects</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 🚀 Featured Projects
 
 <p align="center">
