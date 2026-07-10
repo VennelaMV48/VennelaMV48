@@ -2,7 +2,7 @@
 
 AI engineer passionate about building intelligent systems that solve real-world problems.
 
-Currently pursuing a **Master of Artificial Intelligence at the University of Auckland**.
+Currently pursuing a **Master of Artificial Intelligence** at the **University of Auckland**.
 
 
 ## 🚀 Featured Projects
