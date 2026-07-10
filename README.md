@@ -8,13 +8,13 @@ Currently pursuing a **Master of Artificial Intelligence** at the **University o
 ## 🚀 Featured Projects
 
 ### 🐧 [TinyML Kororā Dog Detection](https://github.com/VennelaMV48/tinyml-korora-dog-detection)
-  Low-power TinyML system for detecting dogs near kororā nesting areas.
+   Low-power TinyML system for detecting dogs near kororā nesting areas.
 
 ### 🐕 [Multimodal Pet Re-identification](https://github.com/VennelaMV48/multimodal-pet-reidentification)
-  Multimodal deep-learning approach for identifying individual pets.
+   Multimodal deep-learning approach for identifying individual pets.
 
 ### 🤖 [LLM Animal Ethics Advisor](https://github.com/VennelaMV48/llm-animal-ethics-advisor)
-  LLM-based assistant for reviewing animal ethics applications.
+   LLM-based assistant for reviewing animal ethics applications.
 
 
 ## 🛠 Tech Stack
