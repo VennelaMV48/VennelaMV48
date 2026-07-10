@@ -38,6 +38,16 @@ Multimodal deep-learning approach for identifying individual pets.
 LLM-based assistant for reviewing animal ethics applications.
 
 
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=VennelaMV48&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VennelaMV48&layout=compact)
+
+![Streak](https://streak-stats.demolab.com?user=VennelaMV48)
+
+
+
 ## 🛠 Tech Stack
 
 **Programming**: Python, SQL
