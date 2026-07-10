@@ -7,104 +7,8 @@ AI engineer passionate about building intelligent systems that solve real-world 
 Currently pursuing a **Master of Artificial Intelligence at the University of Auckland**.
 
 
-<h2 align="center">🚀 Featured AI Projects</h2>
 
-
-
-
-
-<h2 align="center">🚀 Featured AI Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/VennelaMV48/tinyml-korora-dog-detection">
-    <img
-      src="https://img.shields.io/badge/TinyML%20Kororā%20Dog%20Detection-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"
-      alt="TinyML Kororā Dog Detection"
-    />
-  </a>
-
-  <a href="https://github.com/VennelaMV48/multimodal-pet-reidentification">
-    <img
-      src="https://img.shields.io/badge/Multimodal%20Pet%20Re--identification-0D1117?style=for-the-badge&logo=github&logoColor=A855F7"
-      alt="Multimodal Pet Re-identification"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/VennelaMV48/llm-animal-ethics-advisor">
-    <img
-      src="https://img.shields.io/badge/LLM%20Animal%20Ethics%20Advisor-0D1117?style=for-the-badge&logo=github&logoColor=22C55E"
-      alt="LLM Animal Ethics Advisor"
-    />
-  </a>
-</p>
-
-
-
-<h2 align="center">🚀 Featured AI Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/VennelaMV48/tinyml-korora-dog-detection">
-    <img
-      width="48%"
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=2EA44F&center=true&vCenter=true&width=430&height=90&lines=%F0%9F%90%A7+TinyML+Koror%C4%81+Dog+Detection;Edge+AI+%7C+Computer+Vision"
-      alt="TinyML Kororā Dog Detection"
-    />
-  </a>
-
-  <a href="https://github.com/VennelaMV48/multimodal-pet-reidentification">
-    <img
-      width="48%"
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=8B5CF6&center=true&vCenter=true&width=430&height=90&lines=%F0%9F%90%95+Multimodal+Pet+Re-identification;Deep+Learning+%7C+Computer+Vision"
-      alt="Multimodal Pet Re-identification"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/VennelaMV48/llm-animal-ethics-advisor">
-    <img
-      width="48%"
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00BFFF&center=true&vCenter=true&width=430&height=90&lines=%F0%9F%A4%96+LLM+Animal+Ethics+Advisor;Generative+AI+%7C+Responsible+AI"
-      alt="LLM Animal Ethics Advisor"
-    />
-  </a>
-</p>
-
-
-
-<h2 align="center">🚀 Featured AI Projects</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" height="80">
-      <a href="https://github.com/VennelaMV48/tinyml-korora-dog-detection">
-        <strong>🐧 TinyML Kororā Dog Detection</strong>
-      </a>
-    </td>
-
-    <td width="50%" align="center" height="80">
-      <a href="https://github.com/VennelaMV48/multimodal-pet-reidentification">
-        <strong>🐕 Multimodal Pet Re-identification</strong>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" align="center" height="80">
-      <a href="https://github.com/VennelaMV48/llm-animal-ethics-advisor">
-        <strong>🤖 LLM Animal Ethics Advisor</strong>
-      </a>
-    </td>
-
-    <td width="50%" align="center" height="80">
-      <a href="https://github.com/VennelaMV48?tab=repositories">
-        <strong>✨ View All Projects</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+  🤖 
 
 ## 🚀 Featured Projects
 
@@ -112,7 +16,7 @@ Currently pursuing a **Master of Artificial Intelligence at the University of Au
   <a href="https://github.com/VennelaMV48/tinyml-korora-dog-detection">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&repo=tinyml-korora-dog-detection🐧"
-      alt="TinyML Kororā Dog Detection"
+      alt="🐧TinyML Kororā Dog Detection"
     />
   </a>
 </p>
@@ -120,8 +24,8 @@ Currently pursuing a **Master of Artificial Intelligence at the University of Au
 <p align="center">
   <a href="https://github.com/VennelaMV48/multimodal-pet-reidentification">
     <img
-      src="https://img.shields.io/badge/🐕%20Multimodal%20Pet%20Re--identification-0D1117?style=for-the-badge&logo=github&logoColor=A855F7"
-      alt="Multimodal Pet Re-identification"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&repo=multimodal-pet-reidentification"
+      alt="🐕Multimodal Pet Re-identification"
     />
   </a>
 </p>
@@ -129,8 +33,8 @@ Currently pursuing a **Master of Artificial Intelligence at the University of Au
 <p align="center">
   <a href="https://github.com/VennelaMV48/llm-animal-ethics-advisor">
     <img
-      src="https://img.shields.io/badge/🤖%20LLM%20Animal%20Ethics%20Advisor-0D1117?style=for-the-badge&logo=github&logoColor=22C55E"
-      alt="LLM Animal Ethics Advisor"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&repo=llm-animal-ethics-advisor"
+      alt="🤖LLM Animal Ethics Advisor"
     />
   </a>
 </p>
@@ -162,29 +66,6 @@ Multimodal deep-learning approach for identifying individual pets.
 ### 🤖 [LLM Animal Ethics Advisor](https://github.com/VennelaMV48/llm-animal-ethics-advisor)
 LLM-based assistant for reviewing animal ethics applications.
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/VennelaMV48/tinyml-korora-dog-detection">
-        <strong>🐧 TinyML Kororā Dog Detection</strong>
-      </a>
-    </td>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/VennelaMV48/multimodal-pet-reidentification">
-        <strong>🐕 Multimodal Pet Re-identification</strong>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://github.com/VennelaMV48/llm-animal-ethics-advisor">
-        <strong>🤖 LLM Animal Ethics Advisor</strong>
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 ## 🛠 Tech Stack
