@@ -5,6 +5,7 @@ AI engineer passionate about building intelligent systems that solve real-world 
 Currently pursuing a **Master of Artificial Intelligence** at the **University of Auckland**.
 
 
+
 ## 🚀 Featured Projects
 
 ### 🐧 [TinyML Kororā Dog Detection](https://github.com/VennelaMV48/tinyml-korora-dog-detection)
@@ -15,6 +16,7 @@ Currently pursuing a **Master of Artificial Intelligence** at the **University o
 
 ### 🤖 [LLM Animal Ethics Advisor](https://github.com/VennelaMV48/llm-animal-ethics-advisor)
    LLM-based assistant for reviewing animal ethics applications.
+
 
 
 ## 🛠 Tech Stack
@@ -28,11 +30,13 @@ Currently pursuing a **Master of Artificial Intelligence** at the **University o
 **Tools**: Edge Impulse, Roboflow, Streamlit, Jupyter
 
 
+
 ## 🌍 Interests
 
 AI for environmental monitoring  
 Edge AI deployment  
 Applied machine learning research  
+
 
 
 ## 📫 Connect With Me
