@@ -7,22 +7,6 @@ AI engineer passionate about building intelligent systems that solve real-world 
 Currently pursuing a **Master of Artificial Intelligence at the University of Auckland**.
 
 
-<p align="center">
-  <a href="https://github.com/VennelaMV48/tinyml-korora-dog-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&repo=tinyml-korora-dog-detection" />
-  </a>
-  <a href="https://github.com/VennelaMV48/multimodal-pet-reidentification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&repo=multimodal-pet-reidentification" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/VennelaMV48/llm-animal-ethics-advisor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&repo=llm-animal-ethics-advisor" />
-  </a>
-</p>
-
-
 ## 🚀 Featured Projects
 
 <p align="center">
@@ -52,15 +36,29 @@ Multimodal deep-learning approach for identifying individual pets.
 ### 🤖 [LLM Animal Ethics Advisor](https://github.com/VennelaMV48/llm-animal-ethics-advisor)
 LLM-based assistant for reviewing animal ethics applications.
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/VennelaMV48/tinyml-korora-dog-detection">
+        <strong>🐧 TinyML Kororā Dog Detection</strong>
+      </a>
+    </td>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/VennelaMV48/multimodal-pet-reidentification">
+        <strong>🐕 Multimodal Pet Re-identification</strong>
+      </a>
+    </td>
+  </tr>
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=VennelaMV48&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VennelaMV48&layout=compact)
-
-![Streak](https://streak-stats.demolab.com?user=VennelaMV48)
-
+  <tr>
+    <td align="center">
+      <a href="https://github.com/VennelaMV48/llm-animal-ethics-advisor">
+        <strong>🤖 LLM Animal Ethics Advisor</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## 🛠 Tech Stack
