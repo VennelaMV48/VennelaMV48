@@ -12,6 +12,37 @@ Currently pursuing a **Master of Artificial Intelligence at the University of Au
 <p align="center">
   <a href="https://github.com/VennelaMV48/tinyml-korora-dog-detection">
     <img
+      src="https://img.shields.io/badge/🐧%20TinyML%20Kororā%20Dog%20Detection-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"
+      alt="TinyML Kororā Dog Detection"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/VennelaMV48/multimodal-pet-reidentification">
+    <img
+      src="https://img.shields.io/badge/🐕%20Multimodal%20Pet%20Re--identification-0D1117?style=for-the-badge&logo=github&logoColor=A855F7"
+      alt="Multimodal Pet Re-identification"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/VennelaMV48/llm-animal-ethics-advisor">
+    <img
+      src="https://img.shields.io/badge/🤖%20LLM%20Animal%20Ethics%20Advisor-0D1117?style=for-the-badge&logo=github&logoColor=22C55E"
+      alt="LLM Animal Ethics Advisor"
+    />
+  </a>
+</p>
+
+
+
+<h2 align="center">🚀 Featured AI Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/VennelaMV48/tinyml-korora-dog-detection">
+    <img
       src="https://img.shields.io/badge/TinyML%20Kororā%20Dog%20Detection-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"
       alt="TinyML Kororā Dog Detection"
     />
