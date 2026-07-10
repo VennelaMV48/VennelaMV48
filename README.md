@@ -13,33 +13,19 @@ Currently pursuing a **Master of Artificial Intelligence at the University of Au
 <p align="center">
 
 <a href="https://github.com/VennelaMV48/tinyml-korora-dog-detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&repo=tinyml-korora-dog-detection"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&&repo=tinyml-korora-dog-detection"/>
 </a>
 
 <a href="https://github.com/VennelaMV48/multimodal-pet-reidentification">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&repo=multimodal-pet-reidentification"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&&repo=multimodal-pet-reidentification"/>
 </a>
 
 <a href="https://github.com/VennelaMV48/llm-animal-ethics-advisor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&repo=llm-animal-ethics-advisor"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&&repo=llm-animal-ethics-advisor"/>
 </a>
 
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/VennelaMV48/tinyml-korora-dog-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&repo=tinyml-korora-dog-detection" />
-  </a>
-
-  <a href="https://github.com/VennelaMV48/multimodal-pet-reidentification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&repo=multimodal-pet-reidentification" />
-  </a>
-
-  <a href="https://github.com/VennelaMV48/llm-animal-ethics-advisor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&repo=llm-animal-ethics-advisor" />
-  </a>
-</p>
 
 ## 🛠 Tech Stack
 
