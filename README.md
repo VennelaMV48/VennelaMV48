@@ -13,18 +13,29 @@ Currently pursuing a **Master of Artificial Intelligence at the University of Au
 <p align="center">
 
 <a href="https://github.com/VennelaMV48/tinyml-korora-dog-detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&&repo=tinyml-korora-dog-detection"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&repo=tinyml-korora-dog-detection"/>
 </a>
 
 <a href="https://github.com/VennelaMV48/multimodal-pet-reidentification">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&&repo=multimodal-pet-reidentification"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&repo=multimodal-pet-reidentification"/>
 </a>
 
 <a href="https://github.com/VennelaMV48/llm-animal-ethics-advisor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&&repo=llm-animal-ethics-advisor"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VennelaMV48&repo=llm-animal-ethics-advisor"/>
 </a>
 
 </p>
+
+## Featured Projects
+
+### 🐧 [TinyML Kororā Dog Detection](https://github.com/VennelaMV48/tinyml-korora-dog-detection)
+Low-power TinyML system for detecting dogs near kororā nesting areas.
+
+### 🐕 [Multimodal Pet Re-identification](https://github.com/VennelaMV48/multimodal-pet-reidentification)
+Multimodal deep-learning approach for identifying individual pets.
+
+### 🤖 [LLM Animal Ethics Advisor](https://github.com/VennelaMV48/llm-animal-ethics-advisor)
+LLM-based assistant for reviewing animal ethics applications.
 
 
 ## 🛠 Tech Stack
