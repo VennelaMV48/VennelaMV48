@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/ai-hero.svg" alt="Vennela, AI Engineer. Building intelligent systems for real-world impact." width="100%" />
+  <img src="./header.svg" alt="Vennela, AI Engineer. Building intelligent systems for real-world impact." width="100%" />
   <br/><br/>
   <a href="https://github.com/VennelaMV48">GitHub</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/vennela-mangala-venkatesha/">LinkedIn</a> &nbsp;·&nbsp;
@@ -17,19 +17,19 @@ My work brings together technical depth and real-world purpose, with a particula
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/VennelaMV48/tinyml-korora-dog-detection"><img alt="Kororā dog detection project artwork" src="./assets/project-edge.svg" width="100%"/></a><br/>
+      <a href="https://github.com/VennelaMV48/tinyml-korora-dog-detection"><img alt="Kororā dog detection project artwork" src="./project-edge.svg" width="100%"/></a><br/>
       <b><a href="https://github.com/VennelaMV48/tinyml-korora-dog-detection">Kororā Dog Detection</a></b><br/>
       Edge AI vision system exploring low-power dog detection near nesting habitats.<br/><br/>
       <code>TinyML</code> <code>Computer Vision</code>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/VennelaMV48/multimodal-pet-reidentification"><img alt="Multimodal pet re-identification project artwork" src="./assets/project-pet.svg" width="100%"/></a><br/>
+      <a href="https://github.com/VennelaMV48/multimodal-pet-reidentification"><img alt="Multimodal pet re-identification project artwork" src="./project-pet.svg" width="100%"/></a><br/>
       <b><a href="https://github.com/VennelaMV48/multimodal-pet-reidentification">Multimodal Pet Re-ID</a></b><br/>
       Exploring multimodal embeddings and deep learning to identify individual pets.<br/><br/>
       <code>Deep Learning</code> <code>Embeddings</code>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/VennelaMV48/llm-animal-ethics-advisor"><img alt="LLM ethics advisor project artwork" src="./assets/project-llm.svg" width="100%"/></a><br/>
+      <a href="https://github.com/VennelaMV48/llm-animal-ethics-advisor"><img alt="LLM ethics advisor project artwork" src="./project-llm.svg" width="100%"/></a><br/>
       <b><a href="https://github.com/VennelaMV48/llm-animal-ethics-advisor">LLM Animal Ethics Advisor</a></b><br/>
       Language-assistance tool reviewing clarity and readability in research proposals.<br/><br/>
       <code>LLMs</code> <code>NLP</code>
