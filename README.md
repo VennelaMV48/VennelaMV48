@@ -1,9 +1,7 @@
 <div align="center">
   <img src="./header.png" " width="100%" />
   <br/><br/>
-  <a href="https://github.com/VennelaMV48">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/vennelamv/">LinkedIn</a> &nbsp;·&nbsp;
-  <b>Auckland, New Zealand</b>
+    
 </div>
 
 ## `01 / About me`
@@ -12,7 +10,7 @@ Hi! I'm **Vennela Mangala Venkatesha**, a Master of Artificial Intelligence grad
 
 My work brings together technical depth and real-world purpose, with a particular interest in wildlife protection, trustworthy systems, and applied AI.
 
-## `02 / Featured AI projects.`
+## `02 / Featured AI projects`
 
 <table>
   <tr>
@@ -55,4 +53,19 @@ My work brings together technical depth and real-world purpose, with a particula
 
 ## `05 / Connect`
 
-I'm interested in **AI graduate, machine-learning, computer-vision, and AI engineering opportunities**, especially in New Zealand. Explore the repositories above or connect with me on [LinkedIn](https://www.linkedin.com/in/vennela-mangala-venkatesha/).
+I'm interested in **AI graduate, machine-learning, computer-vision, and AI engineering opportunities**, especially in New Zealand.
+
+Feel free to explore my repositories or get in touch!
+
+<p>
+  <a href="https://www.linkedin.com/in/vennelamv/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+         height="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:vm.yogi@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
+         height="30" />
+  </a>
+</p>
+
