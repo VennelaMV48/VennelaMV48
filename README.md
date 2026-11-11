@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.svg" alt="Vennela, AI Engineer. Building intelligent systems for real-world impact." width="100%" />
+  <img src="./header.png" alt="Vennela, AI Engineer. Building intelligent systems for real-world impact." width="100%" />
   <br/><br/>
   <a href="https://github.com/VennelaMV48">GitHub</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/vennela-mangala-venkatesha/">LinkedIn</a> &nbsp;·&nbsp;
