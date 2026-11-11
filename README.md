@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./header.png" alt="Vennela, AI Engineer. Building intelligent systems for real-world impact." width="100%" />
+  <img src="./header.png" " width="100%" />
   <br/><br/>
   <a href="https://github.com/VennelaMV48">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/vennela-mangala-venkatesha/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/vennelamv/">LinkedIn</a> &nbsp;·&nbsp;
   <b>Auckland, New Zealand</b>
 </div>
 
@@ -12,7 +12,7 @@ Hi! I'm **Vennela Mangala Venkatesha**, a Master of Artificial Intelligence grad
 
 My work brings together technical depth and real-world purpose, with a particular interest in wildlife protection, trustworthy systems, and applied AI.
 
-## `02 / Featured AI projects`
+## `02 / Featured AI projects.`
 
 <table>
   <tr>
